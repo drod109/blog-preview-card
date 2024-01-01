@@ -31,43 +31,51 @@ body {
 }
 .card {
     display: flex;
+    position: relative;
     flex-direction: column;
     background-color: var(--neutral-clr-wh);
-    max-width: 350px;
-    min-height: 500px;
-    padding: 20px;
-    border-radius: 20px;
-    outline: 2px solid var(--neutral-clr-blk);
+    max-width: 21.875rem;
+    min-height: 31.25rem;
+    padding: 1.25rem;
+    border-radius: 1.25rem;
+    outline: 0.125rem solid var(--neutral-clr-blk);
+    box-shadow: 0.5rem 0.5rem 0 var(--neutral-clr-blk);
+}
+.card-img {
+    position: relative;
+    border-radius: 0.625rem;
 }
 .card-lbl {
     background-color: var(--primary-clr);
     margin: 0;
-    padding: 3px;
-    border-radius: 3px;
+    padding: 0.188rem;
+    border-radius: 0.188rem;
     font-size: .810rem;
     font-weight: 800;
     position: relative;
     top: 20px;
-    max-width: 60px;
+    max-width: 3.75rem;
 }
-.card .pub-date {
+.pub-date {
     display: block;
     position: relative;
-    top: 25px;
+    top: 1.563rem;
+    padding: 10px 0;
 }
 .card h1 {
     position: relative;
-    top: 25px;
+    top: 1.563rem;
+    font-size: 18px;
 }
 .avatar {
     display: flex;
     position: relative;
-    gap: 10px;
+    gap: 0.625rem;
     align-items: center;
-    top: 70px;
+    top: 4.375rem;
 }
 .avatar-img {
     border-radius: 50%;
-    width: 35px;
-    height: 35px;
+    width: 2.188rem;
+    height: 2.188rem;
 }
