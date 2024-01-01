@@ -53,29 +53,42 @@ body {
     font-size: .810rem;
     font-weight: 800;
     position: relative;
-    top: 20px;
+    top: 1.25rem;
     max-width: 3.75rem;
 }
 .pub-date {
     display: block;
     position: relative;
-    top: 1.563rem;
-    padding: 10px 0;
+    top: 1.463rem;
+    padding: 0.625rem 0;
+    font-size: 0.7663rem;
 }
 .card h1 {
     position: relative;
-    top: 1.563rem;
-    font-size: 18px;
+    top: 2rem;
+    font-size: 1.375rem;
+    color: var(--neutral-clr-blk);
+}
+.card p {
+    position: relative;
+    color: var(--neutral-clr-gy);
+    top: 3.2rem;
+    font-weight: 600;
+    font-size: 0.975rem; 
 }
 .avatar {
     display: flex;
     position: relative;
     gap: 0.625rem;
     align-items: center;
-    top: 4.375rem;
+    top: 6rem;
 }
 .avatar-img {
     border-radius: 50%;
     width: 2.188rem;
     height: 2.188rem;
+}
+.avatar .name {
+    font-size: 0.810rem;
+    font-weight: 800;
 }
