@@ -5,31 +5,26 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
 - [Author](#author)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
-### The challenge
-
-Users should be able to:
-
-- See hover and focus states for all interactive elements on the page
-
 ### Screenshot
 
-![](./screenshot.jpg)
+![Project Screenshot](https://i.postimg.cc/vmVhkFYS/Screenshot-2024-01-01-054641.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github Repo](https://github.com/drod109/blog-preview-card)
+- Live Site URL: [QR Code Component | Live Preview](https://codepen.io/drodrigues/full/zYbvZdY)
 
 ## My process
 
@@ -38,10 +33,10 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@drod109](https://www.frontendmentor.io/profile/drod109)
+- LinkedIn - [@dwaynerodrigues](https://www.linkedin.com/in/dwaynerodrigues/)
+- Twitter - [@drod_tweets](https://www.twitter.com/drod_tweets)
+- Instagram - [@drod108](https://www.instagram.com/drod108/)
