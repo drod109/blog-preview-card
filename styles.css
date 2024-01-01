@@ -25,11 +25,11 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    max-width: 90rem;
+    min-height: 100vh;
 }
 
 .wrapper {
-    max-width: 90rem;
-    min-height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -100,5 +100,8 @@ body {
 }
 
 @media (max-width: 23.438rem) {
-
+    .wrapper {
+        max-width: 70vw;
+    
+    }
 }
