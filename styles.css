@@ -29,6 +29,14 @@ body {
     min-height: 100vh;
 }
 
+a {
+    color: inherit;
+}
+
+a:hover {
+    color:hsl(47, 88%, 63%);
+}
+
 .wrapper {
     display: flex;
     justify-content: center;
@@ -97,4 +105,12 @@ body {
 .avatar .name {
     font-size: 0.810rem;
     font-weight: 800;
+}
+.credit {
+    position: relative;
+    padding-top: 10px;
+    font-size: 0.7190rem;
+}
+.credit a:hover {
+    color: hsl(47, 30%, 49%);
 }
