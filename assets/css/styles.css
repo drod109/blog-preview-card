@@ -110,11 +110,11 @@ a:hover {
     font-size: 0.810rem;
     font-weight: 800;
 }
-.credit {
+.author {
     position: relative;
     padding-top: 10px;
     font-size: 0.7190rem;
 }
-.credit a:hover {
+.author a:hover {
     color: hsl(0, 0%, 100%);
 }
