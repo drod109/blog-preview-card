@@ -1,4 +1,4 @@
-# Frontend Mentor - Blog preview card solution
+# Blog preview Card Solution - Frontend Mentor
 
 This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
@@ -21,7 +21,6 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Github Repo](https://github.com/drod109/blog-preview-card)
 - Live Site 1 URL: [QR Code Component | Live Preview](https://drod109.github.io/blog-preview-card/)
 - Live Site 2 URL: [QR Code Component | Live Preview](https://codepen.io/drodrigues/full/zYbvZdY)
 
